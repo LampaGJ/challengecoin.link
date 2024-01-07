@@ -12,4 +12,4 @@
 * Metternich VIII
 * Metternich IX
 * Metternich X
-* [Metternich XI](metternich11)
+* [Metternich XI](metternich/m11)
