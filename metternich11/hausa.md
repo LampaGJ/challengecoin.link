@@ -36,4 +36,4 @@ January 7, 2024
 
 ### Description
 
-Bronze and colors with reeded edge
+Bronze, color, reeded edge
