@@ -4,7 +4,7 @@ Draw Victory 1836
 
 ## Issued to
 
-Hausa - Jordan Fraade
+Mexico - Thomas Haver
 
 ## Design
 
@@ -17,8 +17,8 @@ Manoli Strecker
 ## Also issued to
 
 * France - Marc Tracy
+* Hausa - Jordan Fraade
 * Marataha - Chas Carey
-* Mexico - Thomas Haver
 * Portugal - Noah Mamis
 * Russia - Andrew Goldston
 * Spain - Chris Hooks
@@ -28,7 +28,7 @@ Manoli Strecker
 
 ### Serial number
 
-MCC643705
+MCC363723
 
 ### Manufactured
 January 7, 2024
