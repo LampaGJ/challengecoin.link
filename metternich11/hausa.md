@@ -8,10 +8,10 @@ Hausa Jordan Fraade
 ## Created
 January 7, 2024
 
-## Designed and manufactured by
+## Design and manufacture
 Graham Lampa
 
-## Authorized by
+## Certification
 Manoli Strecker
 
 ## Also issued to
