@@ -3,15 +3,15 @@
 Draw Victory 1836
 
 ## Issued to
+
 Hausa Jordan Fraade
 
-## Created
-January 7, 2024
+## Design
 
-## Design and manufacture
 Graham Lampa
 
 ## Certification
+
 Manoli Strecker
 
 ## Also issued to
@@ -24,3 +24,16 @@ Manoli Strecker
 * Russia Andrew Goldston
 * Spain Chris Hooks
 * United States Brendan O'Connor
+
+## Details
+
+### Serial number
+
+MCC643705
+
+### Manufactured
+January 7, 2024
+
+### Description
+
+Bronze and colors with reeded edge
