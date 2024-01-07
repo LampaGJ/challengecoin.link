@@ -1,6 +1,6 @@
 # Metternich XI (M11)
 
-## Draw Victory 1836
+Draw Victory 1836
 
 ## Issued to
 Hausa Jordan Fraade
