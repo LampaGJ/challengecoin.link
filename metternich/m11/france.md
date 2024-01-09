@@ -2,21 +2,21 @@
 
 ![Metternich X1 Coins](m11-coins.jpg)
 
-Draw Victory 1836
+## Draw Victory 1836
 
-## Issued to
+### Issued to
 
 France - Marc Tracy
 
-## Design
+### Design
 
 Graham Lampa
 
-## Certification
+### Certification
 
 Manoli Strecker
 
-## Also issued to
+### Also issued to
 
 * Hausa - Jordan Fraade
 * Marataha - Chas Carey
