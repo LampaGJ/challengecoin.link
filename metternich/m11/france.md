@@ -1,3 +1,9 @@
+---
+title: Meternich X1
+description: Draw Victory 1836
+image: /m11-coins.jpg
+----
+
 # Metternich XI (M11)
 
 Draw Victory 1836
