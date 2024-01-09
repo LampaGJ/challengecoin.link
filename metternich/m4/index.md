@@ -1,5 +1,5 @@
-# Metternich X (M11)
+# Metternich IV (M4)
 
 ## Solo Victory 1834
 
-* [Argentina - Ben Judah](argentina.md)
+* [Brazil - Max Fisher](brazil.md)
