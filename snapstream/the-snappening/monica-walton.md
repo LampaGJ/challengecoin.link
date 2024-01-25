@@ -17,7 +17,7 @@ Graham Lampa
 * Tom Cabanski
 * Lindsay Meck
 * Jill McDevitt
-* JR REale
+* JR Reale
 * Efrain Rovira
 * Kyle Walton
  
