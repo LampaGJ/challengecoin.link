@@ -4,7 +4,7 @@
 
 ### Issued to
 
-Kyle Walton
+Monica
 
 ### Design
 
@@ -19,7 +19,7 @@ Graham Lampa
 * Jill McDevitt
 * JR REale
 * Efrain Rovira
-* Monica Walton
+* Kyle Walton
  
 ## Details
 
