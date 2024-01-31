@@ -1,4 +1,6 @@
-# Age of Metternich: The World in 1821
+# Age of Metternich
+
+## The World in 1821
 
 * [Metternich I](m1)
 * [Metternich II](m2)
