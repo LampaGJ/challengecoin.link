@@ -2,11 +2,11 @@
 
 ## Age of Metternich: The World in 1821
 
-* Metternich I
-* Metternich II
-* Metternich III
-* Metternich IV
-* Metternich V
+* [Metternich I][m1]
+* [Metternich II][m2]
+* [Metternich III][m3]
+* [Metternich IV][m4]
+* [Metternich V][m5]
 * Metternich VI
 * Metternich VII
 * Metternich VIII
