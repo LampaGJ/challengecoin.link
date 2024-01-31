@@ -1,4 +1,4 @@
-# Index of Metternich I (M1)
+# Metternich I (M1)
 
 ## Draw Victory 1842
 

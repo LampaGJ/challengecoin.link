@@ -1,4 +1,4 @@
-# Index of Metternich III (M3)
+# Metternich III (M3)
 
 ## Draw Victory 1838
 

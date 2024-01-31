@@ -1,4 +1,4 @@
-# Index of Metternich V (M5)
+# Metternich V (M5)
 
 ## Draw Victory 1836
 

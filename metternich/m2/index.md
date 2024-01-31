@@ -1,4 +1,4 @@
-# Index of Metternich II (M2)
+# Metternich II (M2)
 
 ## Draw Victory 1838
 
