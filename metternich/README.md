@@ -9,5 +9,5 @@
 * Metternich VII
 * Metternich VIII
 * Metternich IX
-* Metternich X
+* [Metternich X](m10)
 * [Metternich XI](m11)
