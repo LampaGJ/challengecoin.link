@@ -1,4 +1,3 @@
-
 # Metternich VII (M7)
 
 ![Metternich VII (M7) Coins](m7-coins.jpg)
