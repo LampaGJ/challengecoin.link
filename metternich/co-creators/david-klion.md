@@ -4,7 +4,7 @@
 
 ### Issued to
 
-Dave Klion
+David Klion
 
 ### Also issued to
 
