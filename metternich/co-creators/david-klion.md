@@ -26,4 +26,4 @@ May 15, 2024
 
 ### Description
 
-Gold medallion
+Gold metallic medallion
