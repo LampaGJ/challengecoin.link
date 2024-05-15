@@ -6,6 +6,10 @@
 
 Manoli Strecker
 
+### Also issued to
+
+David Klion
+
 ### Design
 
 Graham Lampa
