@@ -4,5 +4,5 @@
 
 # Issued to
 
-* [David Klion](david-klion)
-* [Manoli Strecker](manoli-strecker)
+* [David Klion](david-klion.md)
+* [Manoli Strecker](manoli-strecker.md)
